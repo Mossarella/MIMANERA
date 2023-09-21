@@ -1,0 +1,70 @@
+/* Main obligation stuff */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   
+    transition: all 0.2s cubic-bezier(0.45,0.05,0.55,0.95); 
+
+  }
+  html {
+    max-width: 100%;
+    background-color: #ffffff;
+ }
+/* Define fonts and classes */
+
+  @font-face {
+    font-family: 'medium'; 
+    src: url('/Plaimanas/Resource/AkzidenzGrotesk-Medium.otf') format('opentype'); 
+  }
+  .font-medium{
+    font-family: 'medium', roboto;
+  }
+  @font-face {
+    font-family: 'bold'; 
+    src: url('/Plaimanas/Resource/AkzidenzGrotesk-Bold.otf') format('opentype'); 
+  }
+  .font-bold{
+    font-family: 'bold', roboto;
+  }
+  @font-face {
+    font-family: 'reg'; 
+    src: url('/Plaimanas/Resource/AkzidenzGrotesk-Regular.otf') format('opentype'); 
+  }
+  .font-reg{
+    font-family: 'reg', roboto;
+  }
+  /* Font details */
+  .grey{
+    color: #666666;
+  }
+  p, h1, h2, h3, h4, h5, h6, span, strong, em, a, li, ul, ol, dt, dd {
+    margin-bottom: 0.5rem;
+  }
+  .font-size-reg{
+    font-size: 14px;
+  }
+  .font-size-header{
+    font-size: 18px;
+  }
+  .font-size-small{
+    font-size: 12px;
+  }
+  .spreadLine{
+    margin-bottom: 1rem;
+  }
+  
+
+
+
+
+
+
+
+
+ #footer{
+    background-color: #f8f9f8;
+
+    
+ }
+
