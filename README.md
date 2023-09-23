@@ -19,7 +19,7 @@ You can also view live version here 🤙 : http://mimanera.mossarelladev.com/.
 
 
 <p align="center">
-  <img width="460" height="300" src="/Screenshot/Sketch.jpg">
+  <img width="460" height="auto" src="/Screenshot/Sketch.jpg">
 </p>
 
 
@@ -40,7 +40,7 @@ I was planning to use vanilla HTML,CSS,JS. With the help of bootstrap to managin
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second hours is all about doing by the plan. However using bootstrap grid layout to saving time is trade with some inaccuracies. The webpage may not 100% match with the design. And the HTML file may clustered with bootstrap class.
 
 <p align="center">
-  <img width="460" height="300" src="/Screenshot/2HRS.png">
+  <img width="460" height="auto" src="/Screenshot/2HRS.png">
 </p>
 
 - 3rd hour
@@ -49,7 +49,7 @@ I was planning to use vanilla HTML,CSS,JS. With the help of bootstrap to managin
  
 
 <p align="center">
-  <img width="460" height="300" src="/Screenshot/3HRS.png">
+  <img width="460" height="auto" src="/Screenshot/3HRS.png">
 </p>
 
 I'm also need to initing a git repository and sending the first update after this.
@@ -62,13 +62,13 @@ I'm also need to initing a git repository and sending the first update after thi
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From this point. My working time is now discontinuous. I'm polishing the page as stated. The webpage would be better the more time i get. And I decided to stop it there. After 8 hours. The work is now complete. There are some minor stuff to be done but it's working fine for now.
 
 <p align="center">
-  <img width="460" height="300" src="/Screenshot/Finished.png">
+  <img width="460" height="auto" src="/Screenshot/Finished.png">
 </p>
 
 You can take a look at the robust css layout. There's no space to be wasted.
 
 <p align="center">
-  <img width="460" height="300" src="/Screenshot/CSSInspect.png">
+  <img width="460" height="auto" src="/Screenshot/CSSInspect.png">
 </p>
 
  Thanks for sticking to here ⭐
