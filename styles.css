@@ -22,21 +22,21 @@
 
   @font-face {
     font-family: 'medium'; 
-    src: url('/Plaimanas/Resource/AkzidenzGrotesk-Medium.otf') format('opentype'); 
+    src: url('/Resource/AkzidenzGrotesk-Medium.otf') format('opentype'); 
   }
   .font-medium{
     font-family: 'medium', roboto;
   }
   @font-face {
     font-family: 'bold'; 
-    src: url('/Plaimanas/Resource/AkzidenzGrotesk-Bold.otf') format('opentype'); 
+    src: url('/Resource/AkzidenzGrotesk-Bold.otf') format('opentype'); 
   }
   .font-bold{
     font-family: 'bold', roboto;
   }
   @font-face {
     font-family: 'reg'; 
-    src: url('/Plaimanas/Resource/AkzidenzGrotesk-Regular.otf') format('opentype'); 
+    src: url('/Resource/AkzidenzGrotesk-Regular.otf') format('opentype'); 
   }
   .font-reg{
     font-family: 'reg', roboto;
